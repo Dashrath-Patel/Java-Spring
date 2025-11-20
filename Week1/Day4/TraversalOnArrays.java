@@ -1,6 +1,6 @@
 package Week1.Day4;
 
-public class TraverslOnArrays {
+public class TraversalOnArrays {
 public static void main(String[] args) {
     int[] num = {1,2,3,4,5};
     //Traversal on 1D arrays
